@@ -1,7 +1,7 @@
-### Olá! Sou Ana Giancoli! 👋
+<div><img align="right" height="149" width="150" alt="Ana" src="https://cdn.discordapp.com/attachments/871199836752457749/871201441715474432/Ana.png" />
+</div>
 
-<img align="right" height="149" width="150" alt="Ana" src="https://cdn.discordapp.com/attachments/871199836752457749/871201441715474432/Ana.png" />
-
+### Olá! Sou Ana Giancoli! 👋 
 
 - 🔭 Atualmente sou professora de programação e banco de dados no IFSP.
 - 🌱 Estou conhecendo e aprofundando em serviços da nuvem AWS.
@@ -9,14 +9,14 @@
 
 ##
 
-<div>
+<div align="center" style="display: flex; align-items: center; flex-wrap: nowrap;">
   <a href="https://github.com/anagiancoli">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anagiancoli&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagiancoli&layout=compact&langs_count=16&theme=ayu-mirage" /> 
 </div>  
   <br>
   
-<div>
+<div align="center" style="display: flex; align-items: center; flex-wrap: nowrap;">
   <img align="center" alt="Ana-AWS" height="30" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Ana-GraphQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" />
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -31,8 +31,8 @@
 </div>
   <br>
   
-<div>
- <img align="center" alt="Ana-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
+<div align="center" style="display: flex; align-items: center; flex-wrap: nowrap;">
+  <img align="center" alt="Ana-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Ana-MongoDB" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Ana-PostgreSQL" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Ana-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
@@ -44,6 +44,8 @@
   <img align="center" alt="Ana-Yarn" height="30" width="40" src="https://icongr.am/devicon/yarn-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Ana-NPM" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" />
     
+  
+
  </div>
 
   ##
@@ -51,4 +53,6 @@
 <div>
   <a href="https://anagiancoli.github.io"><img align="center" alt="Ana-Github" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg'></a>
 </div>
+  
+
  
