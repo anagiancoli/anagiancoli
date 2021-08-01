@@ -1,5 +1,8 @@
 ### Olá! Sou Ana Giancoli! 👋
 
+<img align="right" height="149" width="150" alt="Ana" src="https://cdn.discordapp.com/attachments/871199836752457749/871201441715474432/Ana.png" />
+
+
 - 🔭 Atualmente sou professora de programação e banco de dados no IFSP.
 - 🌱 Estou conhecendo e aprofundando em serviços da nuvem AWS.
 - 📫 Entre em contato por: paulagiancoli@ifsp.edu.br
